@@ -1,0 +1,11 @@
+/* configurações para o corpo da página */
+body{
+    background-color:antiquewhite darkpurple; /* Define a cor de fundo como azul escuro */
+    text-align: center;         /* Centraliza todos os elementos e textos na página */
+}
+
+/* Configurações para os títulos principais */
+h1 {
+   color:blueviolet        /* Cor do texto em azul escuro */
+   border-style: solid;
+}
